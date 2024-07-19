@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "946404577638",
+    "project_id": "note-sqlite-cf013",
+    "storage_bucket": "note-sqlite-cf013.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946404577638:android:6fb11e68db4c0f40d3f8a7",
+        "android_client_info": {
+          "package_name": "com.example.notesqlite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946404577638-c753r84154u8krl48p91befiq26d7dq0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.notesqlite",
+            "certificate_hash": "535795c7db959df5ec7b5c2f4deef9027c7c8e55"
+          }
+        },
+        {
+          "client_id": "946404577638-bqmbb46nhk6nddt7ghcblhr1jst4lf1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWgd5rIj49bp6oSIn2b_sp2dtArVfCr7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946404577638-bqmbb46nhk6nddt7ghcblhr1jst4lf1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -16,7 +16,7 @@ The Notes app provides functionality for creating, updating, and deleting notes.
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Agarwal16/Notes-SQLite.git
+   git clone https://github.com/Agarwal16/Note-SQLite.git
 
 ## Usage
 
